@@ -1,0 +1,1 @@
+function playSound(e){document.getElementById("mysoundEl").innerHTML='<embed src="'+e+'" hidden="true" autostart="true" loop="false" />'}

@@ -1,0 +1,6 @@
+Набір 'Dungeon Master'
+1000$
+Dungeon_Master
+Набір 'Dungeon Master' - це найкращий подарунок вашим друзям,адже цей легендарний костюм носила легенда,котра знімалася в gachimuchi.Кожен підліток на планеті мріє про такий dungeon look!
+8
+../sounds/Dungeon_Master.mp3
