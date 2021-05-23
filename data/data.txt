@@ -18,5 +18,5 @@ tupac
 kad
 kosa
 druzhba
+lif
 hz
-lifa
